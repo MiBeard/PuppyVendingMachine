@@ -1,0 +1,12 @@
+Labrador Retriever::100::0
+German Shepherd::1::0
+Dachshund::5::0
+Llama::1::998
+Rottweiler::20::0
+Elephant::1::0
+Border Collie::30::0
+Chihuahua::50::0
+American Bulldog::10::0
+Boxer::20::0
+Beagle::3::0
+Tiger::1000::1
